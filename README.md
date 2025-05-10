@@ -1,0 +1,2 @@
+This dataset is a class imbalanced CAN bus fault diagnosis dataset. CANFD-2.91 indicates a low degree of imbalance, CANFD-5.03 indicates a moderate degree of imbalance, and CANFD-10.42 indicates a high degree of imbalance. The calculation of the imbalance rate is The ratio of samples in the data set's smallest category to samples in its largest category is known as the imbalance rate.
+Each line in the file represents a sample, columns 1 to 1024 represent 1024 features, and the last column represents a label.
